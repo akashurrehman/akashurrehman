@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aakashurrehman" target="blank"><img src="https://img.shields.io/twitter/follow/aakashurrehman?logo=twitter&style=for-the-badge" alt="aakashurrehman" /></a> <a href="https://www.linkedin.com/in/aakashurrehman" target="blank"><img src="https://img.shields.io/twitter/follow/aakashurrehman?logo=linkedin&style=for-the-badge" alt="aakashurrehman" /></a> </p>
 
-- 🔭 I’m currently working on **ML Ontology solution for Blood Donation website**
+- 👨‍💻 Currently, I am actively engaged as a frontend developer, leveraging cutting-edge technologies (Nextjs and Reactjs) to work on diverse and dynamic projects..
 
 - 🌱 I’m currently learning **Python, Machine Learning and Data science**
 
