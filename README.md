@@ -7,13 +7,13 @@
 
 - 👨‍💻 Currently, I am actively engaged as a frontend developer, leveraging cutting-edge technologies (Nextjs and Reactjs) to work on diverse and dynamic projects..
 
-- 🌱 I’m currently learning **Python, Machine Learning and Data science**
+- 🌱 I’m currently learning **Nextjs,TypeScript, Machine Learning and Data science**
 
 - 👯 I’m looking to collaborate on [Tourist booking Mobile Application](https://github.com/akashurrehman/SemesterProject2)
 
 - 👨‍💻 All of my projects are available at [https://github.com/akashurrehman](https://github.com/akashurrehman)
 
-- 💬 Ask me about **react, Javascript, node,python**
+- 💬 Ask me about **React, Javascript, Node,Python**
 
 - 📫 How to reach me **akashurrehman456@gmail.com**
 
