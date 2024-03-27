@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nextjs,TypeScript, Machine Learning and Data science**
 
-- 👯 I’m looking to collaborate on [Tourist booking Mobile Application](https://github.com/akashurrehman/SemesterProject2)
+- 👯 I’m looking to collaborate on [Tourist booking Mobile Application](https://github.com/akashurrehman/Islamic-Scriptures)
 
 - 👨‍💻 All of my projects are available at [https://github.com/akashurrehman](https://github.com/akashurrehman)
 
