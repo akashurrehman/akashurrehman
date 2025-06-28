@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Akash ur rehman</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer with a focus on web development, machine learning, and solving real-world challenges through code.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashurrehman&label=Profile%20views&color=0e75b6&style=flat" alt="akashurrehman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aakashurrehman" target="blank"><img src="https://img.shields.io/twitter/follow/aakashurrehman?logo=twitter&style=for-the-badge" alt="aakashurrehman" /></a> <a href="https://www.linkedin.com/in/aakashurrehman" target="blank"><img src="https://img.shields.io/twitter/follow/aakashurrehman?logo=linkedin&style=for-the-badge" alt="aakashurrehman" /></a> </p>
 
-- 👨‍💻 Currently, I am actively engaged as a frontend developer, leveraging cutting-edge technologies (Nextjs and Reactjs) to work on diverse and dynamic projects..
+- 👨‍💻 As an experienced Full Stack Developer, I specialize in building scalable, high-performance applications. My expertise spans front-end technologies like **React.js** and **Next.js**, as well as back-end frameworks like **Node.js**, **Express**, and databases (SQL & NoSQL), enabling me to deliver end-to-end solutions.
 
-- 🌱 I’m currently learning **Nextjs,TypeScript, Machine Learning and Data science**
+- 🌱 I’m Currently, I'm expanding my skill set by diving deeper into **TypeScript**, **Machine Learning**, and **Data Science** to stay at the forefront of emerging technologies.
 
-- 👯 I’m looking to collaborate on [Islamic Scriptures Web Application](https://github.com/akashurrehman/Islamic-Scriptures)
+- 👯 I’m looking to collaborate on [Islamic Scriptures Web Application](https://github.com/akashurrehman/Islamic-Scriptures), a project aimed at making religious texts more accessible to the world.
 
-- 👨‍💻 All of my projects are available at [https://github.com/akashurrehman](https://github.com/akashurrehman)
+- 👨‍💻 You can explore my work and contributions at [https://github.com/akashurrehman](https://github.com/akashurrehman)
 
-- 💬 Ask me about **React, Javascript, Node,Python**
+- 💬 Feel free to ask me about **React**, **JavaScript**, **Node.js**, **Python**, or any tech-related queries you might have.
 
-- 📫 How to reach me **akashurrehman456@gmail.com**
+- 📫 How to reach me **akashurrehman456@gmail.com** or through **akashurrehman.com**
 
-- ⚡ Fun fact **"Software engineers are like detectives, they solve complex problems by breaking them down into smaller parts and using logic to find a solution."**
+- ⚡ Fun Fact: "Software engineers are like detectives—they break down complex problems into smaller components and use logic to uncover solutions."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
